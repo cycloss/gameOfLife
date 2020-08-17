@@ -17,7 +17,7 @@ def playGame(iterations):
 
 playGame(30)
 
-oscillator
+
 # startingGrid = [[' ', ' ', ' ', ' ', ' ', ' '],
 #                 [' ', ' ', ' ', ' ', ' ', ' '],
 #                 [' ', ' ', '#', '#', '#', ' '],
